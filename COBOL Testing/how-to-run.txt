@@ -1,0 +1,5 @@
+Compile it using a COBOL compiler, such as OpenCOBOL or GnuCOBOL. For example:
+
+"cobc -x hello-world.cob"
+
+(without the quotation marks)

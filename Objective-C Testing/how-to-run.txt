@@ -1,0 +1,5 @@
+Compile it using the clang compiler. For example:
+
+"clang -framework Foundation hello-world.m -o hello-world"
+
+(without the quotation marks)

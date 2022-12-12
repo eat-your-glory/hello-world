@@ -1,0 +1,6 @@
+Compile it using the gcc compiler. For example:
+
+"gcc hello-world.c -o hello-world"
+
+(without the quotation marks)
+

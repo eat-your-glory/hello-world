@@ -1,0 +1,6 @@
+Run it using the kotlinc command to see the output. For example:
+
+"kotlinc hello-world.kt -include-runtime -d hello-world.jar
+java -jar hello-world.jar"
+
+(without the quotation marks)

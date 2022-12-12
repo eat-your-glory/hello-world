@@ -1,0 +1,5 @@
+Run it using the dart command to see the output. For example:
+
+"dart hello-world.dart"
+
+(without the quotation marks)

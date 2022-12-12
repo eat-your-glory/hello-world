@@ -1,0 +1,5 @@
+Use the nasm assembler to assemble it into an executable file. For example:
+
+"nasm -f win32 hello-world.asm -o hello-world.exe" 
+
+(without the quotation marks)

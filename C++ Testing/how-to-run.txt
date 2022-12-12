@@ -1,0 +1,6 @@
+Compile it using the g++ compiler. For example:
+
+"g++ hello-world.cpp -o hello-world"
+
+(without the quotation marks)
+

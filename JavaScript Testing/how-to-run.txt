@@ -1,0 +1,8 @@
+Run it using a JavaScript interpreter, such as node, to see the output. For example:
+
+"node hello-world.js"
+
+(without the quotation marks)
+
+This will execute the code and display the "Hello World" message on the console.
+

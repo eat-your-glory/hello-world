@@ -1,0 +1,12 @@
+Compile it using the javac compiler. For example:
+
+"javac HelloWorld.java"
+
+(without the quotation marks)
+
+This will create a HelloWorld.class file that contains the compiled Java bytecode. You can run this file using the java command to see the "Hello World" message. For example:
+
+"java HelloWorld"
+
+(without the quotation marks)
+

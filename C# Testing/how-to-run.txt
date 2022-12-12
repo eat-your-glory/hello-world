@@ -1,0 +1,6 @@
+Compile it using the csc compiler. For example:
+
+"csc hello-world.cs"
+
+(without the quotation marks)
+
