@@ -1,0 +1,2 @@
+To compile your TypeScript code, open a command prompt or terminal and navigate to the directory where your TypeScript file is saved. Then, run the following command: tsc hello-world.ts
+
